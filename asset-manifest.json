@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/testimonios/static/css/main.c7c59d7b.css",
-    "main.js": "/testimonios/static/js/main.c3100742.js",
-    "static/media/Emma.png": "/testimonios/static/media/Emma.add10415a5668325d2f2.png",
-    "static/media/Sarah.png": "/testimonios/static/media/Sarah.2c504d1ebaf1961e4a40.png",
-    "static/media/Shawn.png": "/testimonios/static/media/Shawn.0d373888087fb18fc145.png",
-    "index.html": "/testimonios/index.html",
-    "main.c7c59d7b.css.map": "/testimonios/static/css/main.c7c59d7b.css.map",
-    "main.c3100742.js.map": "/testimonios/static/js/main.c3100742.js.map"
+    "main.css": "/testimonios-freecodecamp/static/css/main.c7c59d7b.css",
+    "main.js": "/testimonios-freecodecamp/static/js/main.5a7f476c.js",
+    "static/media/Emma.png": "/testimonios-freecodecamp/static/media/Emma.add10415a5668325d2f2.png",
+    "static/media/Sarah.png": "/testimonios-freecodecamp/static/media/Sarah.2c504d1ebaf1961e4a40.png",
+    "static/media/Shawn.png": "/testimonios-freecodecamp/static/media/Shawn.0d373888087fb18fc145.png",
+    "index.html": "/testimonios-freecodecamp/index.html",
+    "main.c7c59d7b.css.map": "/testimonios-freecodecamp/static/css/main.c7c59d7b.css.map",
+    "main.5a7f476c.js.map": "/testimonios-freecodecamp/static/js/main.5a7f476c.js.map"
   },
   "entrypoints": [
     "static/css/main.c7c59d7b.css",
-    "static/js/main.c3100742.js"
+    "static/js/main.5a7f476c.js"
   ]
 }
